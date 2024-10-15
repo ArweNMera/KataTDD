@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="297255fe-ce81-48b6-95f2-70ddfb839889" name="Changes" comment="creando el esqueleto de las clases Conjunto y TestConjunto" />
+    <list default="true" id="297255fe-ce81-48b6-95f2-70ddfb839889" name="Changes" comment="caso1: calcular promedio con conjunto vacio (rojo)">
+      <change beforePath="$PROJECT_DIR$/src/logica/Conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Conjunto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TestConjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestConjunto.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,13 +35,38 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in TestConjunto.py.executor": "Run",
+    "Python.Conjunto.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests in TestConjunto.py">
+    <configuration name="Conjunto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KataTDD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/logica" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/logica/Conjunto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="KataTDD" />
       <option name="ENV_FILES" value="" />
@@ -61,6 +89,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in TestConjunto.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="KataTDD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/TestConjunto.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in TestConjunto.py" />
+        <item itemvalue="Python.Conjunto" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -102,14 +151,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729026825322</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="caso1: calcular promedio con conjunto vacio (rojo)">
+      <option name="closed" value="true" />
+      <created>1729027147090</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027147090</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Configuracion del proyecto inicial del proyecto KataTDD" />
     <MESSAGE value="Configuracion del inicial del proyecto KataTDD" />
     <MESSAGE value="creando el esqueleto de las clases Conjunto y TestConjunto" />
-    <option name="LAST_COMMIT_MESSAGE" value="creando el esqueleto de las clases Conjunto y TestConjunto" />
+    <MESSAGE value="caso1: calcular promedio con conjunto vacio (rojo)" />
+    <option name="LAST_COMMIT_MESSAGE" value="caso1: calcular promedio con conjunto vacio (rojo)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
