@@ -45,7 +45,7 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests in TestConjunto.py">
+  <component name="RunManager" selected="Python.Conjunto">
     <configuration name="Conjunto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="KataTDD" />
       <option name="ENV_FILES" value="" />
@@ -122,8 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in TestConjunto.py" />
         <item itemvalue="Python.Conjunto" />
+        <item itemvalue="Python tests.Python tests in TestConjunto.py" />
         <item itemvalue="Python tests.Python tests for TestConjunto.TestConjunto.test_conjunto_dosElementos_retornaPromedioElementos" />
       </list>
     </recent_temporary>
